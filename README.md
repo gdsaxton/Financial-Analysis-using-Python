@@ -11,8 +11,8 @@ For a more general set of PANDAS notebook tutorials, I'd recommend <a href="http
 As you may know from my other tutorials, I am a big fan of the free <a href="https://store.continuum.io/cshop/anaconda/" target=_blank>Anaconda version of Python 2.7</a>. It contains all of the prerequisites you need and will save you a lot of headaches getting your system set up. Once it's all installed open up a terminal and run the following:
 
 ```
-git clone https://github.com/gdsaxton/PANDAS.git
-cd PANDAS
+git clone https://github.com/gdsaxton/Financial-Analysis-using-Python.git
+cd Financial-Analysis-using-Python
 ipython notebook
 ```
 
