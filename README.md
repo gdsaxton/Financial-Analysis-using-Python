@@ -1,7 +1,9 @@
 # Financial Analysis and Big Data -- Tutorials and Code 
-This is a series of ipython notebooks for analyzing Big Data -- specifically Twitter data -- using Python's powerful <a href="http://pandas.pydata.org/" target=_blank>PANDAS</a> (Python Data Analysis) library. 
+This is a series of ipython notebooks for analyzing finance-related Big Data using Python's powerful <a href="http://pandas.pydata.org/" target=_blank>PANDAS</a> (Python Data Analysis) library. 
 
-For these tutorials I am assuming you have already downloaded some data and are now ready to begin examining it. In the first notebook I will show you how to set up your ipython working environment and import the Twitter data we have downloaded. If you are new to Python, you may wish to go through a <a href="http://social-metrics.org/tutorial-list/" target=_blank>series of tutorials</a> I have created in order. 
+If you are new to Python, you may wish to go through a <a href="http://social-metrics.org/tutorial-list/" target=_blank>series of tutorials</a> I have created in order. If you want to go to some general data analysis tutorials, take a look at my other tutorial series on how <a href="https://github.com/gdsaxton/PANDAS" target=_blank>how to analyze Twitter data PANDAS</a>. 
+
+For these tutorials I am assuming you have already downloaded some data and are now ready to begin examining it. In the first notebook I will show you how to set up your ipython working environment and import the Twitter data we have downloaded. 
 
 If you want to skip the data download and just use the sample data, but don't yet have Python set up on your computer, you may wish to go through the tutorial <a href="http://social-metrics.org/python-code-prerequisites/" target=_blank>"Setting up Your Computer to Use My Python Code"</a>.
 
